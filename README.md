@@ -35,7 +35,7 @@ I'm an MCA student passionate about full-stack development, competitive programm
 - Hadoop Ecosystem
 
 ## 📫 Let's Connect!
-- LinkedIn: [Abhishek Shetty](https://www.linkedin.com/in/abhishek-shetty-040263255/))
+- LinkedIn: [Abhishek Shetty](https://www.linkedin.com/in/abhishek-shetty-040263255/)
 - Email: abhispeaking612@gmail.com
 
 🚀 Always eager to learn, solve complex problems, and contribute to open-source projects!
