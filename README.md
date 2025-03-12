@@ -1,4 +1,4 @@
-# Hi there, I'm Abhishek! 👋
+# Hi there, I'm Abhishek Shetty! 👋
 
 ## 🚀 About Me
 I'm an MCA student passionate about full-stack development, competitive programming, and exploring advanced concepts in computer science. I love solving tricky coding problems and building efficient solutions with an emphasis on performance and scalability.
