@@ -23,17 +23,6 @@ I'm an MCA student passionate about full-stack development, competitive programm
    - FullStack chatbot application.
    - Tech Used: NodeJs, MongoDb,ExpresssJs,Python, JavaScript
 
-### 2. **CRYPTOTRADEX – CRYPTOCURRENCY TRADING PLATFORM *
-• Integrated Razorpay and Stripe for wallet top-ups, withdrawals, and
-  crypto payments, ensuring smooth and secure transactions and 
-  Built RESTful APIs with Spring Boot for trading, wallet operations,
-  and transaction management, with secure MySQL integration..
-• Secured the platform with Spring Security, JWT, 2FA, and Java Mail
-Sender for authentication and password recovery.
-• Designed a responsive React frontend with Tailwind CSS, supporting
-real-time coin search, portfolio tracking, and transaction history.
-• Utilized Redux for state management and React Charts for visualizing
-investment performance interactively.
 
 ## 📚 Currently Learning
 - Advanced Java
